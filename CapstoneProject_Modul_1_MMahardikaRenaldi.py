@@ -372,6 +372,6 @@ def mulai_program():
         daftar_member()
         login_member()
     else:
-        print("Pilihan tidak valid. Silakan pilih 'ya' atau 'tidak'.")
+        print("Pilihan tidak valid. Silakan pilih 'y' atau 'n'.")
 
 mulai_program()
